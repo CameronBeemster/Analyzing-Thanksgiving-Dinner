@@ -1,4 +1,4 @@
-# Analyzing-Thanksgiving-Dinner
+# Analyzing Thanksgiving Dinner
 
 Hello! Thank you for checking out my project.
 
